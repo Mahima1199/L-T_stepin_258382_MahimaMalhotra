@@ -2,7 +2,7 @@
 
 ## Behavior Diagram
 
-![Behavior_Diagram](Images/BehavioralDiagram)
+![Behavior_Diagram](Images/BehavioralDiagram.png)
 
 ## StructureDiagrams
 
