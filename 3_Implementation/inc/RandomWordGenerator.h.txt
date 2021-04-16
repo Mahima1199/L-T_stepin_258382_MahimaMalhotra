@@ -1,0 +1,14 @@
+void get_word()
+{
+
+  srand(time(NULL));
+   char word[][16] = {
+       "green",
+       "yellow",
+       "purple",
+       "windows",
+       "linux",
+       "apple"
+   };
+   random_number = rand() % 6;
+}
